@@ -6,12 +6,30 @@ h4{
     font-family: helvetica, sans-serif;
     color: rgb(56, 8, 146);
 }
-
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5077bd;
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+}
+ div p{
+    color:lightseagreen;
+    font-size: larger;
+    
+    
+}
 h2{
     font-family: sans-serif;
-    color:rgb(132, 161, 26);
+    color:darkslategray;
     font-style: italic;
     font-size: 30px;
+    text-align: center;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#5077bd;
+    font-size:larger;
     text-align: center;
 }
 
